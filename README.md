@@ -1,4 +1,4 @@
-# Automation-QA-Web-MobileApp
+# Automation QA for Web and Mobile App
 
 Tech Stacks:
 Node JS
